@@ -7,7 +7,7 @@ This is a backend API designed to perform CRUD (Create, Read, Update, Delete) op
 
 ## Installation
 1. Ensure you have Node.js and MongoDB installed.
-2. Clone this repository to your local machine ( git clone  ).
+2. Clone this repository to your local machine ( git clone https://github.com/SxxdPatel/Assignment.git ).
 3. Run `npm install` to install dependencies.
 
 ## API Endpoints

@@ -27,3 +27,6 @@ app.use('/api', movieRoutes);
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port} This is second branch`);
 });
+
+// This is comment one
+// This is comment second

@@ -25,5 +25,5 @@ app.use('/api', movieRoutes);
 
 
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port} SAAD`);
+  console.log(`Server is running on http://localhost:${port} This is second branch`);
 });
